@@ -1,6 +1,7 @@
 {
     "name": "shareexe",
-    "url": "",
+    "url": "http://github.com",
     "version": "1.0.1",
-    "host": "Github"
+    "host": "Github",
+    "news": "最新更新：1.更新了共享系统；2.更新了测试系统。"
 }
